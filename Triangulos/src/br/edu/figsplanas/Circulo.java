@@ -3,8 +3,8 @@ package br.edu.figsplanas;
 import java.util.Scanner;
 
 public class Circulo {
-	private double raio;
-	private double area;
+	public double raio;
+	public double area;
 	
 	public Circulo() {
 		
@@ -38,4 +38,5 @@ public class Circulo {
 		System.out.println("____________________________________");
 	}
 }
+
 

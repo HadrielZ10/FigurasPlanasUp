@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Hexagono {
 
-	public double lado;
-    public double area;
+	private double lado;
+    private double area;
 
     public Hexagono() {
 
@@ -38,4 +38,5 @@ public class Hexagono {
         System.out.println("A área do hexágono é: " + area);
         System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
     }
+
 }

@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Hexagono {
 
-	private double lado;
-    private double area;
+	public double lado;
+    public double area;
 
     public Hexagono() {
 
@@ -40,3 +40,4 @@ public class Hexagono {
     }
 
 }
+
